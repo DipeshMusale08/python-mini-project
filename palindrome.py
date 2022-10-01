@@ -7,3 +7,5 @@ def pallindrom3(n):
         print("number is not pallindrome")
     
 pallindrom3("121")   
+
+# Edited by Akshay Bhosale
